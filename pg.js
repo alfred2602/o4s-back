@@ -18,7 +18,9 @@ const client = new Client({
     }
 });
 
-const pool = new Pool({ ssl: {
+const pool = new Pool({
+    connectionString: process.env.DATABASE_URL,
+    ssl: {
         require: false,
         rejectUnauthorized: false
     }});
