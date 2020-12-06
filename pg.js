@@ -113,7 +113,7 @@ app.get('/*', async (req, res) => {
       let info = await check_pool(req.url.substring(1));
       //let new_link = "https://widget-o4s.herokuapp.com/indexEng.html?lang=GEN&productCode=" + info['id']  + "&companyCode=pasura&skuCode=exodus-250ml" + "&dom=" + info['dom'];
       try {
-          let new_link = "http://localhost:3000/indexEng.html?lang=GEN&productCode=" + info['id'] + "&companyCode=pasura&skuCode=exodus-250ml" + "&dom=" + info['dom'];
+          let new_link = "https://widget-o4s.herokuapp.com/indexEng.html?lang=GEN&productCode=" + info['id'] + "&companyCode=pasura&skuCode=exodus-250ml" + "&dom=" + info['dom'];
           //console.log(new_link)
           res.redirect(new_link);
       }
