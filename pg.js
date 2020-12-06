@@ -121,7 +121,7 @@ app.get('/*', async (req, res) => {
     }
 })
 
-app.listen(port, () => {
+app.listen(process.env.PORT || 3000, () => {
     //console.log(`Example app listening at http://localhost:${port}`)
 })
 
