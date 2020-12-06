@@ -1,0 +1,9 @@
+short link -primary key
+id
+dom
+
+get a shortened link on nodejs for long link with procode
+
+	create qr for that link
+	
+redirect short link to long link using postgres

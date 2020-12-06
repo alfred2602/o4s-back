@@ -1,0 +1,13 @@
+know more - https://widget.o4s.io/www.pasuracropcare.com
+support call - tel:'18001023313'
+
+https://widget.o4s.io/indexEng.html?lang=GEN&productCode=93605093940&companyCode=pasura&skuCode=exodus-250ml
+
+http://localhost:3000/indexEng.html?lang=GEN&productCode=9876&companyCode=pasura&skuCode=exodus-250ml&dom=Dec-01-2020
+or
+http://localhost:3000/indexEng.html?lang=GEN&productCode=9876&companyCode=pasura&skuCode=exodus-250ml&dom=12-01-2020
+
+
+https://o4s.io/1.1.1.456hhu
+
+https://o4s.herokuapp.com/new
