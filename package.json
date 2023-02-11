@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "pg": "^8.5.1"
+    "node-localstorage": "^2.1.6",
+    "pg": "^8.5.1",
+    "postgres": "^3.3.3"
   }
 }
